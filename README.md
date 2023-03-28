@@ -27,9 +27,9 @@ php artisan serve
 ```
 npm run watch
 ```
-
-if got class "fideloper\proxy\trustproxies" not found errorplease run 
+```
+if you get class "fideloper\proxy\trustproxies" not found error please run 
 
 composer require fideloper/proxy
-
+```
 
